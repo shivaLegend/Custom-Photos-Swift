@@ -1,7 +1,7 @@
 version: "Apple Swift version 5.0 (swiftlang-1001.0.69.5 clang-1001.0.46.3)"
 options: "3a93d60b528f5518ed56c892bc16d61a"
-build_time: [1553755151, 219996000]
+build_time: [1553759235, 182146000]
 inputs:
-  "/Users/nguyenductai/Desktop/iOSProject/galleryURL/galleryURL/ViewController.swift": [1553749216, 876403017]
+  "/Users/nguyenductai/Desktop/iOSProject/galleryURL/galleryURL/ViewController.swift": [1553759226, 459706841]
   "/Users/nguyenductai/Desktop/iOSProject/galleryURL/galleryURL/AppDelegate.swift": [1553738853, 264598624]
   "/Users/nguyenductai/Desktop/iOSProject/galleryURL/galleryURL/PhotoCollectionViewCell.swift": [1553742317, 225237026]
